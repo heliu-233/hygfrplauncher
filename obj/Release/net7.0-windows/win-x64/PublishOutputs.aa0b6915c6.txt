@@ -1,0 +1,7 @@
+C:\Users\aw151\Desktop\新建文件夹\hyg frp launcher wpf 精简版 5.1.3.pdb
+C:\Users\aw151\Desktop\新建文件夹\D3DCompiler_47_cor3.dll
+C:\Users\aw151\Desktop\新建文件夹\PenImc_cor3.dll
+C:\Users\aw151\Desktop\新建文件夹\PresentationNative_cor3.dll
+C:\Users\aw151\Desktop\新建文件夹\vcruntime140_cor3.dll
+C:\Users\aw151\Desktop\新建文件夹\wpfgfx_cor3.dll
+C:\Users\aw151\Desktop\新建文件夹\hyg frp launcher wpf 精简版 5.1.3.exe

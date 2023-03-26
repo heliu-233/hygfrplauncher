@@ -1,0 +1,18 @@
+﻿<Page x:Class="hyg_frp_launcher_beta.页面.日志"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:hyg_frp_launcher_beta.页面"
+      mc:Ignorable="d" 
+      xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+      d:DesignHeight="341" d:DesignWidth="700"
+      Title="日志">
+
+    <Grid>
+        <TextBlock Background="#FF80B9EE" Text="{Binding Path=信息,Mode=TwoWay}" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" x:Name="日志框" Width="780" Height="336"/>
+        <ui:Hyperlink Content="复制链接" Margin="10,340,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <ui:Hyperlink Icon="Delete12" Content="清空日志" Margin="99,340,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <ui:Hyperlink Icon="Save16" Content="保存日志" Click="Button_Click_2" Margin="190,340,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>

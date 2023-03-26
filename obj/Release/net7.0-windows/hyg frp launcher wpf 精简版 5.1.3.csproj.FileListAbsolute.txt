@@ -1,0 +1,32 @@
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\bin\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.exe
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\bin\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.deps.json
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\bin\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.runtimeconfig.json
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\bin\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.dll
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\bin\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.pdb
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\bin\Release\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\bin\Release\net7.0-windows\Wpf.Ui.dll
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.csproj.AssemblyReference.cache
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\页面\主页.g.cs
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\页面\日志.g.cs
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\页面\设置.g.cs
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\App.g.cs
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3_Content.g.cs
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3_MarkupCompile.cache
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3_MarkupCompile.lref
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\App.baml
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\MainWindow.baml
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\页面\主页.baml
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\页面\日志.baml
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\页面\设置.baml
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.g.resources
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.AssemblyInfoInputs.cache
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.AssemblyInfo.cs
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.csproj.CoreCompileInputs.cache
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.csproj.CopyComplete
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.dll
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\refint\hyg frp launcher wpf 精简版 5.1.3.dll
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.pdb
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\hyg frp launcher wpf 精简版 5.1.3.genruntimeconfig.cache
+C:\Users\aw151\Documents\work\hyg frp\hyg frp launcher wpf 精简版 xxx 项目\hyg frp launcher wpf 精简版 5.1.3\obj\Release\net7.0-windows\ref\hyg frp launcher wpf 精简版 5.1.3.dll
